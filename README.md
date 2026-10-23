@@ -66,7 +66,7 @@ print(me.say_hello())
 <td width="50%" valign="top">
 
 ### 🌙 Project One
-**LumineSense(https://github.com/strblls/your-repository](https://github.com/strblls/LUMINESENSE-finals)**
+**[LumineSense](https://github.com/strblls/LUMINESENSE-finals)**
 
 An IoT-based smart lighting system designed to improve classroom energy efficiency through occupancy detection, automated lighting schedules, gesture-based controls, and a web dashboard for monitoring.
 
@@ -139,8 +139,9 @@ An academic or personal project demonstrating problem-solving, technical documen
 
 I'm always happy to learn, collaborate, and connect with people who share an interest in technology.
 
-- 💼 LinkedIn: ([https://www.linkedin.com/](https://www.linkedin.com/in/alexandra-shierlmole-ballesteros-082658377/))
-- 📧 Email: 🪻 (ballesteros.alexandra08@gmail.com)
+- 💼 LinkedIn: [🪻] ([https://www.linkedin.com/](https://www.linkedin.com/in/alexandra-shierlmole-ballesteros-082658377/))
+- 📧 Email: [🪻] (ballesteros.alexandra08@gmail.com)
+- 👾 Discord: [stereolilies] (https://discord.com/users/884318005062946838)
 
 <div align="center">
 
