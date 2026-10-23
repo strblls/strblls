@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B2E,50:B8A5E3,100:F2B8D5&height=200&section=header&text=Hello,%20World!%20%F0%9F%8C%B8&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Cybersecurity%20Professional&descAlignY=60&descSize=15" width="100%" alt="Pastel lavender and pink GitHub banner"/>
-
-# Hi there, I'm a BSIT Student! 🌷
-
-### `learning • building • securing`
-
-*Exploring the world of technology, one project at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B2E,50:B8A5E3,100:F2B8D5&height=200&section=header&text=Hello%20Hello%20Hello!&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Cybersecurity%20Professional&descAlignY=60&descSize=15" width="100%" alt="Pastel lavender and pink GitHub banner"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B2E?style=for-the-badge&logo=github&logoColor=E6DDF8)](https://github.com/strblls)
 [![Profile Views](https://komarev.com/ghpvc/?username=strblls&style=for-the-badge&color=CDB9F2&label=PROFILE+VIEWS)](https://github.com/strblls)
@@ -18,37 +12,28 @@
 ## 💜 About Me
 
 ```python
-class Developer:
-    def __init__(self):
+class whoami:
+    def __init__(siself):
         self.role = "BSIT Student"
         self.interests = [
-            "Cybersecurity",
-            "Software Development,
+            "Ethical Hacking",
+            "DevSecOps",
             "Web Development"
         ]
-        self.current_goal = "Become a better developer every day"
+        self.current_goal = "Be better every day (and secure an internship plspls)"
 
-    def say_hello(self):
+    def say_hello(siself):
         return "Thanks for stopping by! Let's build something cool."
 
-me = Developer()
+me = whoami()
 print(me.say_hello())
 ```
-
-- 🎓 I'm a Bachelor of Science in Information Technology student.
-- 🔐 I'm exploring cybersecurity, ethical hacking, and maybe... devsecops.
-- 🐍 I'm learning to build practical solutions with Python and other technologies.
-- ☁️ I'm exploring cloud services and automation.
-- 🌱 I'm continuously improving through hands-on projects and technical labs.
-- 🎯 My goal is to gain practical experience and grow as an IT professional.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-*Technologies I'm learning, exploring, or using in projects.*
-
-### 💻 Programming & Development
+### Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-CDB9F2?style=flat-square&logo=python&logoColor=28213A)
 ![HTML5](https://img.shields.io/badge/HTML5-F2B8D5?style=flat-square&logo=html5&logoColor=28213A)
@@ -62,37 +47,36 @@ print(me.say_hello())
 ![Cisco](https://img.shields.io/badge/Cisco-F2B8D5?style=flat-square&logo=cisco&logoColor=28213A)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-F5DFA8?style=flat-square&logo=tryhackme&logoColor=28213A)
 
-### ☁️ Cloud & Tools
+### Tools
 
-![AWS](https://img.shields.io/badge/AWS-CDB9F2?style=flat-square&logo=amazonwebservices&logoColor=28213A)
 ![Git](https://img.shields.io/badge/Git-F2B8D5?style=flat-square&logo=git&logoColor=28213A)
 ![GitHub](https://img.shields.io/badge/GitHub-B8D9F5?style=flat-square&logo=github&logoColor=28213A)
 ![VS Code](https://img.shields.io/badge/VS%20Code-F5DFA8?style=flat-square&logo=visualstudiocode&logoColor=28213A)
+[![Antigravity](https://img.shields.io/badge/Antigravity-D8BFE8?style=flat-square&logo=google&logoColor=28243A)](https://antigravity.google/)
 
-> ♡ Keep only the technologies and platforms you have actually used or are actively learning. A badge represents an interest, not proof of expertise.
+### currently exploring
+![AWS](https://img.shields.io/badge/AWS-CDB9F2?style=flat-square&logo=amazonwebservices&logoColor=28213A)
 
 ---
 
-## 🌱 Featured Projects
-
-*A few things I'm building, learning, and experimenting with.*
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌙 Project One
-**[Your Project Name](https://github.com/strblls/your-repository)**
+**LumineSense(https://github.com/strblls/your-repository](https://github.com/strblls/LUMINESENSE-finals)**
 
-A short description of what your project does, the problem it solves, and what you learned while building it.
+An IoT-based smart lighting system designed to improve classroom energy efficiency through occupancy detection, automated lighting schedules, gesture-based controls, and a web dashboard for monitoring.
 
-`Python` `Development`
+`IoT` `Development` `Web Development` `Automation` `Energy Monitoring` 
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 Project Two
-**[Your Project Name](https://github.com/YOUR-GITHUB-USERNAME/your-repository)**
+**[tbd](tbd)**
 
 A cybersecurity or networking lab documenting the objective, tools used, methodology, and key takeaways.
 
@@ -104,9 +88,9 @@ A cybersecurity or networking lab documenting the objective, tools used, methodo
 <td width="50%" valign="top">
 
 ### ☁️ Project Three
-**[Your Project Name](https://github.com/strblls/your-repository)**
+**[tbd](tbd)**
 
-A cloud computing or automation project showcasing your implementation, configuration, and results.
+A cloud computing or automation project showcasing your implementation, configuration, and results. (aws project wit lang)
 
 `AWS` `Automation`
 
@@ -114,9 +98,9 @@ A cloud computing or automation project showcasing your implementation, configur
 <td width="50%" valign="top">
 
 ### 🌷 Project Four
-**[Your Project Name](https://github.com/strblls/your-repository)**
+**[tbd](tbd)**
 
-An academic or personal project demonstrating problem-solving, technical documentation, and collaboration.
+An academic or personal project demonstrating problem-solving, technical documentation, and collaboration. (healthhive di pero kayuhon ko lang)
 
 `Academic Project` `Problem Solving`
 
@@ -142,7 +126,7 @@ An academic or personal project demonstrating problem-solving, technical documen
 
 ## 🌸 What I'm Working Toward
 
-- [ ] Build more practical Python projects.
+- [ ] Build more practical projects.
 - [ ] Strengthen my networking and Linux fundamentals.
 - [ ] Practice cybersecurity in authorized labs and learning environments.
 - [ ] Explore cloud computing and automation.
@@ -155,13 +139,10 @@ An academic or personal project demonstrating problem-solving, technical documen
 
 I'm always happy to learn, collaborate, and connect with people who share an interest in technology.
 
-- 💻 GitHub:    (https://github.com/strblls)
 - 💼 LinkedIn: ([https://www.linkedin.com/](https://www.linkedin.com/in/alexandra-shierlmole-ballesteros-082658377/))
-- 📧 Email: Add your preferred professional contact email
+- 📧 Email: 🪻 (ballesteros.alexandra08@gmail.com)
 
 <div align="center">
-
-### *"Little by little, a little becomes a lot."* 🌷
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B2E,50:B8A5E3,100:F2B8D5&height=100&section=footer" width="100%" alt="Pastel footer"/>
 </div>
