@@ -135,13 +135,6 @@ An academic or personal project demonstrating problem-solving, technical documen
 
 ---
 
-## 💌 Let's Connect!
-
-I'm always happy to learn, collaborate, and connect with people who share an interest in technology.
-
-- 💼 LinkedIn: [🪻] ([https://www.linkedin.com/](https://www.linkedin.com/in/alexandra-shierlmole-ballesteros-082658377/))
-- 📧 Email: [🪻] (ballesteros.alexandra08@gmail.com)
-- 👾 Discord: [stereolilies] (https://discord.com/users/884318005062946838)
 
 <div align="center">
 
