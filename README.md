@@ -155,8 +155,8 @@ An academic or personal project demonstrating problem-solving, technical documen
 
 I'm always happy to learn, collaborate, and connect with people who share an interest in technology.
 
-- 💻 GitHub: [@YOUR-GITHUB-USERNAME](https://github.com/strblls)
-- 💼 LinkedIn: [Add your LinkedIn profile]([https://www.linkedin.com/](https://www.linkedin.com/in/alexandra-shierlmole-ballesteros-082658377/))
+- 💻 GitHub:    (https://github.com/strblls)
+- 💼 LinkedIn: ([https://www.linkedin.com/](https://www.linkedin.com/in/alexandra-shierlmole-ballesteros-082658377/))
 - 📧 Email: Add your preferred professional contact email
 
 <div align="center">
